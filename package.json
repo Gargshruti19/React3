@@ -1,5 +1,5 @@
 {
-	"name": "3.-episode-2",
+	"name": "4.-episode-3",
 	"version": "1.0.0",
 	"description": "",
 	"scripts": {
@@ -9,7 +9,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "(https://github.com/Gargshruti19/React2.git)"
+		"url": "(https://github.com/Gargshruti19/React3.git)"
 	},
 	"author": "Shruti Garg",
 	"license": "ISC",
